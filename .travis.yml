@@ -1,6 +1,6 @@
-language: java
-install: ant deps
 language: android
+jdk: oraclejdk7
+install: ant deps
 android:
   components:
     # Uncomment the lines below if you want to
